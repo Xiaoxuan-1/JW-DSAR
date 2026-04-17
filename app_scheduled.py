@@ -2552,10 +2552,10 @@ custom_css = """
 }
 """
 
-def _build_gradio_demo() -> tuple[Any, Any]:
+def _build_gradio_demo() -> Any:
     """仅在 Web 模式下构建 Gradio 界面，避免 generate-once 路径初始化 Gradio Blocks。"""
     theme = gr.themes.Soft()
-    with gr.Blocks() as demo:
+    with gr.Blocks(css=custom_css, theme=theme) as demo:
         with gr.Column(elem_classes="jwdsar-shell"):
             gr.HTML(
                 '<div class="jwdsar-page-title-wrap"><h1 class="jwdsar-page-title">'
@@ -2630,7 +2630,7 @@ def _build_gradio_demo() -> tuple[Any, Any]:
                         return gr.Dropdown(choices=get_all_report_dates())
 
                     refresh_dates_btn.click(fn=refresh_dates, outputs=date_dropdown)
-    return demo, theme
+    return demo
 
 
 def main() -> None:
@@ -2716,9 +2716,9 @@ def main() -> None:
 
     port = int(os.getenv("PORT", "7860"))
     latest_report = load_latest_report_from_disk()
-    demo, theme = _build_gradio_demo()
+    demo = _build_gradio_demo()
     logger.info("Starting Gradio (load latest from disk at startup; use cron for daily --generate-once)")
-    demo.launch(server_name="0.0.0.0", server_port=port, css=custom_css, theme=theme)
+    demo.launch(server_name="0.0.0.0", server_port=port)
 
 
 if __name__ == "__main__":
