@@ -1,0 +1,40 @@
+:Product: 20260212events.txt
+:Created: 2026 Feb 15 0357 UT
+:Date: 2026 02 12
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Feb 12
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6680 +     0051   ////      0051  LEA  C   RSP  025-123   III/2                 
+
+6690 +     0229   0240      0250  G18  5   XRA  1-8A      M1.4    1.0E-02   4366
+6690       0234   ////      0235  LEA  C   RSP  025-180   III/2                 
+
+6700 +     0615   ////      0622  LEA  C   RSP  025-180   III/2                 
+
+6720       0722   ////      0724  LEA  C   RSP  025-066   III/2                 
+
+6710 +     0725   0740      0756  G18  5   XRA  1-8A      C1.1    1.9E-03   4366
+
+6730       0807   ////      0821  LEA  C   RSP  025-070   VI/2                  
+
+6740 +     0940   ////      0945  SVI  C   RSP  025-150   III/2                 
+6740       0941   0941      0941  SVI  G   RBR  245       100                   
+
+6750       1228   ////      1251  SAG  C   RSP  025-180   VI/1                  
+
+6760       1334   1341      1350  G19  5   XRA  1-8A      C1.0    1.0E-03   4366
+
+6770 +     1620   1636      1657  G18  5   XRA  1-8A      C1.1    2.2E-03   4366
+
+6780       1725   ////      1809  SAG  C   RSP  025-180   VI/1                  
+
+6790       1842   ////      1847  SAG  C   RSP  025-180   III/1                 
+
+6800       1924   1924      1924  SAG  G   RBR  245       100                   

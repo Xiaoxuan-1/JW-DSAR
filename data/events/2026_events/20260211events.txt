@@ -1,0 +1,82 @@
+:Product: 20260211events.txt
+:Created: 2026 Feb 14 0357 UT
+:Date: 2026 02 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Feb 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6310 +     0000   ////      0015  LEA  C   RSP  085-180   CTM/1                 
+
+6320 +     0029   0044      0050  G18  5   XRA  1-8A      M1.1    1.5E-02   4366
+6320       0030   ////      0106  LEA  C   RSP  025-160   VI/2                  
+
+6360       0114   0114      0114  LEA  G   RBR  245       100                   
+
+6420       0120   0120      0232  LEA  G   RNS  245       140                   
+
+6370 +     0150   ////      0300  LEA  C   RSP  153-180   CTM/1                 
+6370 +     0159   ////      0159  LEA  C   RSP  025-180   III/3                 
+
+6380 +     0253   0301      0313  G18  5   XRA  1-8A      C2.6    3.0E-03   4366
+
+6390 +     0331   0337      0340  G18  5   XRA  1-8A      C1.9    1.1E-03   4366
+
+6400       0353   ////      0419  LEA  C   RSP  043-180   VI/2                  
+
+6410 +     0519   0527      0533  G18  5   XRA  1-8A      C2.0    1.7E-03   4366
+
+6430       0619   0619      0619  LEA  G   RBR  245       120                   
+
+6440       0712   ////      0712  LEA  C   RSP  025-097   III/1                 
+
+6450 +     0719   0725      0727  G18  5   XRA  1-8A      C2.3    1.0E-03   4366
+
+6460       0744   ////      0745  LEA  C   RSP  025-066   III/2                 
+
+6470 +     0849   ////      0851  LEA  C   RSP  025-180   III/2                 
+
+6480 +     1008   1016      1022  G18  5   XRA  1-8A      C1.7    1.4E-03   4366
+
+6490       1044   ////      1045  SVI  C   RSP  025-180   III/1                 
+
+6500 +     1244   ////      1245  SAG  C   RSP  113-180   III/1                 
+
+6510 +     1247   1312      1325  G18  5   XRA  1-8A      M1.4    1.9E-02   4366
+
+6540 +     1333   ////      1338  SVI  C   RSP  025-180   III/1                 
+
+6530       1424   1424      1424  SAG  G   RBR  245       110                   
+
+6550 +     1614   1615      1623  HOL  3   FLA  S24W40    SN      DSD       4371
+
+6560       1701   ////      1702  SAG  C   RSP  025-068   III/1                 
+
+6570       1717   1718      1734  HOL  3   FLA  N10E05    SF                4373
+
+6580 +     1753   1804      1814  G18  5   XRA  1-8A      C1.8    2.3E-03   4373
+6580       1758   1759      1819  HOL  3   FLA  N10E05    SF      DSD       4373
+
+6590 +     1902   1907      1911  G18  5   XRA  1-8A      C2.0    1.2E-03   4366
+6590       1908   ////      1936  PAL  C   RSP  025-180   VI/1                  
+
+6600 +     1943   1948      1952  G18  5   XRA  1-8A      C3.1    1.4E-03   4366
+6600       1944   1944      1944  SAG  G   RBR  245       300                   
+
+6610       1959   1959      1959  SAG  G   RBR  245       140                   
+
+6620       2058   2058      2058  SAG  G   RBR  245       100                   
+
+6630       2106   ////      2106  PAL  C   RSP  025-058   III/2                 
+
+6640 +     2116   2122      2126  G18  5   XRA  1-8A      C1.3    7.8E-04   4374
+6640       2121   2122      2126  HOL  3   FLA  N10E47    SF                4374
+
+6650       2152   2153      2304  HOL  3   FLA  S25W42    SF                4371
+
+6660 +     2323   2329      2335  G18  5   XRA  1-8A      C3.1    2.0E-03   4366

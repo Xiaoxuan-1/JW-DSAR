@@ -1,0 +1,60 @@
+:Product: 20260214events.txt
+:Created: 2026 Feb 17 0357 UT
+:Date: 2026 02 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Feb 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+6900 +     0012   ////      0020  LEA  C   RSP  025-074   III/2                 
+
+6910 +     0215   0229      0243  G18  5   XRA  1-8A      B8.0    1.2E-03   4377
+6910 +     0224   ////      0225  LEA  C   RSP  025-075   III/2                 
+
+6920       0426   ////      0426  LEA  C   RSP  025-053   III/2                 
+
+6930 +     0559   0610      0618  G18  5   XRA  1-8A      C2.0    1.7E-03   4374
+
+6940 +     0658   0706      0726  G18  5   XRA  1-8A      B7.5    1.3E-03   4377
+
+6970 +     0726   0731      0737  G18  5   XRA  1-8A      B6.9    5.3E-04   4373
+
+7000       0832   0832      0832  SVI  G   RBR  245       100                   
+
+6950       0836   0836      0836  LEA  G   RBR  245       100                   
+
+6960 +     0916   0923      0930  G18  5   XRA  1-8A      B7.6    6.1E-04   4377
+
+7010       0930   ////      0930  SVI  C   RSP  055-086   III/2                 
+
+6980       0930   ////      0930  LEA  C   RSP  061-075   III/2                 
+
+6990 +     1102   1113      1120  G18  5   XRA  1-8A      C6.0    3.3E-03   4374
+
+7020       1411   ////      1412  SVI  C   RSP  025-083   III/2                 
+
+7030 +     1551   ////      1552  SVI  C   RSP  025-180   III/2                 
+
+7040       1609   1609      1609  SAG  G   RBR  245       100                   
+
+7050       1622   1622      1622  SAG  G   RBR  245       120                   
+
+7060       1823   1823      1823  SAG  G   RBR  245       210                   
+
+7070       1826   1826      1826  SAG  G   RBR  245       180                   
+
+7080       1829   1829      1830  SAG  G   RBR  245       180                   
+
+7090       1834   1834      1834  SAG  G   RBR  245       160                   
+
+7100       1838   ////      2107  SAG  C   RSP  121-180   CTM/1                 
+7100 +     1839   1839      1839  SAG  G   RBR  245       120                   
+
+7110       1952   1952      1952  SAG  G   RBR  245       130                   
+
+7120       2328   2328      2328  LEA  G   RBR  245       130                   

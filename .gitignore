@@ -1,0 +1,37 @@
+.env
+.env.*
+!.env.example
+
+# Optional local secrets directory
+secrets/
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# Gradio runtime
+.gradio/
+
+# Generated outputs
+reports/
+logs/
+*.log
+*.part
+*.tmp
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local data caches (keep curated datasets tracked)
+data/http_cache/

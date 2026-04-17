@@ -1,0 +1,45 @@
+:Product: 20260315events.txt
+:Created: 2026 Mar 18 0357 UT
+:Date: 2026 03 15
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Mar 15
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 990 +     0037   0047      0054  G18  5   XRA  1-8A      C1.1    1.0E-03       
+
+1000 +     0120   0129      0137  G18  5   XRA  1-8A      B8.5    8.1E-04       
+
+1010 +     0150   0155      0158  G18  5   XRA  1-8A      C1.3    8.9E-04       
+
+1060 +     0158   0206      0209  G18  5   XRA  1-8A      C1.7    1.2E-03       
+
+1070       0415   0437      0448  G18  5   XRA  1-8A      B8.7    1.7E-03       
+
+1020       0448   0455      0458  G18  5   XRA  1-8A      B9.0    5.9E-04       
+
+1030 +     0636   0640      0645  G18  5   XRA  1-8A      B7.7    4.3E-04       
+
+1040       0851   0854      0904  G19  5   XRA  1-8A      B5.6    4.4E-04       
+
+1080       0921   0939      0952  G19  5   XRA  1-8A      M1.0    1.0E-02   4392
+1080       0931   ////      0935  SVI  C   RSP  025-180   III/2             4392
+1080 +     0931   0936      0955  LEA  3   FLA  S16E33    SF                4392
+
+1050 +     0935   0935      0935  SVI  G   RBR  610       160                   
+1050       0935   0935      0935  SVI  G   RBR  1415      110                   
+1050       0935   0936      0936  SVI  G   RBR  2695      110                   
+
+1090       1228   1234      1252  G19  5   XRA  1-8A      B5.3    7.6E-04       
+
+1100 +     1500   1509      1513  G18  5   XRA  1-8A      C1.1    7.1E-04   4395
+1100       1504   1506      1513  HOL  3   FLA  S05E46    SF                4395
+
+1110 +     1632   1641      1644  G18  5   XRA  1-8A      B8.2    5.5E-04   4393
+
+1120       2037   2045      2106  SAG  G   RBR  245       3600                  

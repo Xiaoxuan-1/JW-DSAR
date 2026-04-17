@@ -1,0 +1,15 @@
+# JW-Flare 预报小节（可选）：pip install -r requirements_jwflare.txt
+# 与 requirements_scheduled.txt 叠加使用
+
+requests>=2.28.0
+numpy>=1.23.0
+scipy>=1.9.0
+matplotlib>=3.6.0
+Pillow>=9.0.0
+astropy>=5.0.0
+sunpy>=4.0.0
+imageio>=2.31.0
+scikit-image>=0.20.0
+opencv-python-headless>=4.7.0
+PyWavelets>=1.4.0
+tqdm>=4.65.0

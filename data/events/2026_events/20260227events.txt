@@ -1,0 +1,54 @@
+:Product: 20260227events.txt
+:Created: 2026 Mar 02 0357 UT
+:Date: 2026 02 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Feb 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8550 +     0018   0029      0035  G18  5   XRA  1-8A      C2.1    1.9E-03   4380
+
+8560 +     0106   0111      0118  G18  5   XRA  1-8A      C1.4    9.8E-04   4380
+
+8570 +     0216   0223      0231  G18  5   XRA  1-8A      C2.0    1.6E-03   4380
+
+8580       0246   0246      0246  LEA  G   RBR  245       120                   
+8580       0246   ////      0246  LEA  C   RSP  025-180   III/2                 
+
+8600 +     0424   0430      0439  G18  5   XRA  1-8A      C1.1    1.1E-03       
+
+8590       0426   0426      0426  LEA  G   RBR  245       120                   
+
+8610       0453   0453      0453  LEA  G   RBR  245       180                   
+
+8620       0708   0717      0726  G18  5   XRA  1-8A      C1.3    1.4E-03   4380
+
+8630       0904   0912      0915  G19  5   XRA  1-8A      C1.1    7.6E-04   4380
+
+8640       1002   1002      1002  LEA  G   RBR  245       130                   
+
+8650 +     1141   1148      1151  G18  5   XRA  1-8A      C1.5    8.1E-04   4380
+
+8660 +     1243   ////      1243  SVI  C   RSP  125-180   III/1                 
+8660 +     1243   1243      1243  SVI  G   RBR  245       110                   
+
+8670 +     1247   1259      1303  G18  5   XRA  1-8A      C3.5    2.0E-03   4381
+8670 +     1302   ////      1302  SVI  C   RSP  115-180   III/1                 
+
+8680       1727   1728      1729  HOL  3   FLA  N14E60    SF                4378
+
+8690 +     1810   1815      1819  G18  5   XRA  1-8A      C1.2    7.2E-04   4378
+
+8700 +     1932   1942      1949  G18  5   XRA  1-8A      C2.8    2.4E-03   4378
+8700       1935   1935      1950  HOL  3   FLA  N14E59    SF      ERU       4378
+
+8710       1955   1956      1956  SAG  G   RBR  245       1500                  
+
+8720 +     1959   2009      2014  G18  5   XRA  1-8A      C3.4    2.1E-03   4378
+8720       2004   2005      2005  SAG  G   RBR  245       1600              4378
+8720       2006   2007      2015  HOL  3   FLA  N14E59    SF      ERU       4378

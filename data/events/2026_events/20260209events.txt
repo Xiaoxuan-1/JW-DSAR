@@ -1,0 +1,68 @@
+:Product: 20260209events.txt
+:Created: 2026 Feb 12 0357 UT
+:Date: 2026 02 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Feb 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5770       0009   0013      0015  G18  5   XRA  1-8A      C7.4    3.3E-03       
+
+5780       0131   ////      0131  PAL  C   RSP  025-075   III/1                 
+
+5790 +     0141   0148      0151  G18  5   XRA  1-8A      C2.9    2.5E-03   4366
+
+5810 +     0151   0157      0200  G18  5   XRA  1-8A      C4.2    2.3E-03   4366
+
+5800 +     0214   0227      0248  G18  5   XRA  1-8A      M2.8    3.4E-02   4366
+
+6040       0610   0712      1008  SVI  G   RNS  245       280                   
+
+5850       0612   ////      1145  SVI  C   RSP  075-180   CTM/1                 
+
+5820       0643   ////      0700  SVI  C   RSP  025-180   VI/2                  
+
+5830 +     0806   0816      0832  G18  5   XRA  1-8A      C8.2    1.2E-02   4366
+
+5840 +     0832   0836      0842  G18  5   XRA  1-8A      C6.6    4.5E-03   4374
+
+5880       1206   1206      1207  SVI  G   RBR  245       130                   
+5880       1207   ////      2118  SAG  C   RSP  119-180   CTM/1                 
+5880       1209   1209      1209  SVI  G   RBR  245       120                   
+5880 +     1212   1322      1345  SVI  G   RNS  245       870                   
+5880       1227   ////      1607  SVI  C   RSP  115-180   CTM/1                 
+
+5890 +     1321   ////      1321  SAG  C   RSP  025-042   III/1                 
+
+5900 +     1334   1348      1355  G18  5   XRA  1-8A      C4.0    4.2E-03   4366
+
+5910       1407   ////      1408  SVI  C   RSP  075-180   III/1                 
+
+5920       1437   ////      1438  SVI  C   RSP  025-180   III/2                 
+5920       1438   ////      1527  SAG  C   RSP  025-180   VI/1                  
+
+5930 +     1511   1520      1528  G18  5   XRA  1-8A      C2.7    2.5E-03   4366
+5930       1513   1519      1529  HOL  3   FLA  N15W65    SF                4366
+
+5940       1541   1541      1541  SAG  G   RBR  245       110                   
+
+5960       1710   1710      1711  SAG  G   RBR  245       260                   
+
+5970 +     1801   1817      1822  G18  5   XRA  1-8A      C3.0    2.9E-03   4374
+
+5980       1822   1822      1823  SAG  G   RBR  245       180                   
+
+5990       2007   2007      2007  SAG  G   RBR  245       140                   
+
+6010 +     2050   ////      2252  PAL  C   RSP  025-075   VI/2                  
+
+6020 +     2253   2302      2304  G18  5   XRA  1-8A      C9.2    2.8E-03   4374
+6020       2302   2302      2306  HOL  3   FLA  N10E75    SF                4374
+
+6030 +     2347   2359      0017  G18  5   XRA  1-8A      C2.6    4.6E-03   4371
+6030 +     2355   2356     A2359  HOL  3   FLA  S20W22    1F                4371

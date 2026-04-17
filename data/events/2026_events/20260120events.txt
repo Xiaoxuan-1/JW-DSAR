@@ -1,0 +1,50 @@
+:Product: 20260120events.txt
+:Created: 2026 Jan 23 0357 UT
+:Date: 2026 01 20
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Jan 20
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1010       0119   0119      0119  LEA  G   RBR  245       100                   
+
+1120 +     0144   0239      0615  LEA  G   RNS  245       160                   
+
+1020 +     0431   0438      0446  G18  5   XRA  1-8A      C2.0    1.8E-03   4349
+
+1030 +     0528   0532      0534  G18  5   XRA  1-8A      C2.1    8.8E-04   4349
+
+1040 +     0607   0614      0618  G18  5   XRA  1-8A      C2.0    1.3E-03   4345
+
+1050 +     0624   0631      0636  G18  5   XRA  1-8A      C2.7    1.7E-03   4345
+
+1130       0710   ////      1542  SVI  C   RSP  025-180   CTM/1                 
+
+1060 +     0725   0733      0737  G18  5   XRA  1-8A      C4.4    2.4E-03   4345
+1060       0733   0733      0739  LEA  3   FLA  S17E02    SF      ERU       4345
+
+1070       0741   0741      0741  LEA  G   RBR  245       100                   
+
+1080 +     0745   ////      0749  LEA  C   RSP  025-180   III/2                 
+1080       0749   0749      0749  LEA  G   RBR  245       100                   
+
+1090       0749   0751      0751  SVI  G   RBR  245       120                   
+
+1100       0759   0759      0759  LEA  G   RBR  245       480                   
+
+1110 +     0809   0816      0820  G18  5   XRA  1-8A      C4.0    2.0E-03   4345
+1110       0813   0816      0820  LEA  3   FLA  S17E02    SF      ERU       4345
+
+1140 +     1249   1322      1346  G18  5   XRA  1-8A      C4.2    1.1E-02   4345
+
+1150       1442   1442      1442  SAG  G   RBR  245       110                   
+
+1160       1532   1606      1709  G18  5   XRA  1-8A      C2.4    1.1E-02   4345
+1160 +     1552   1603      1634  HOL  3   FLA  S14W03    SF                4345
+
+1180       2145   2145      2201  HOL  3   FLA  S15W02    SF      ERU       4345

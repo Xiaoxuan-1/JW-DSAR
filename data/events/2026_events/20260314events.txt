@@ -1,0 +1,64 @@
+:Product: 20260314events.txt
+:Created: 2026 Mar 17 0357 UT
+:Date: 2026 03 14
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Mar 14
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 740 +     0115   0128      0145  G18  5   XRA  1-8A      C1.2    2.1E-03       
+
+ 850 +     0145   0153      0158  G18  5   XRA  1-8A      C1.3    1.1E-03       
+
+ 750       0429   0434      0446  G18  5   XRA  1-8A      B7.7    7.9E-04       
+
+ 760       0501   0508      0514  G18  5   XRA  1-8A      C1.0    7.8E-04       
+
+ 770       0523   0523      0523  LEA  G   RBR  245       690                   
+
+ 860       0557   0612      0616  G19  5   XRA  1-8A      C1.1    1.4E-03       
+
+ 780       0616   0620      0622  G19  5   XRA  1-8A      C1.1    5.9E-04       
+
+ 790       0656   0657      0659  SVI  3   FLA  N00E00    SF                4384
+
+ 800       0701   0702      0706  SVI  3   FLA  N11W88    SF                4384
+
+ 810 +     0808   0810      0815  G18  5   XRA  1-8A      C1.1    4.9E-04       
+
+ 820 +     0908   ////      0908  LEA  C   RSP  025-059   III/2                 
+
+ 830       0922   0927      0934  G19  5   XRA  1-8A      B7.6    7.3E-04       
+
+ 870       0934   0944      0952  G19  5   XRA  1-8A      C1.3    1.3E-03       
+
+ 840       1001   1005      1007  G19  5   XRA  1-8A      C1.3    5.6E-04       
+
+ 880       1024   1026      1029  G19  5   XRA  1-8A      B9.0    3.1E-04       
+
+ 890       1143   1150      1159  G18  5   XRA  1-8A      C1.0    9.2E-04       
+
+ 900 +     1244   1253      1255  G18  5   XRA  1-8A      C2.1    9.0E-04       
+
+ 910 +     1520   1536      1557  G18  5   XRA  1-8A      C1.3    2.7E-03       
+ 910 +     1536   ////      1537  SAG  C   RSP  025-043   III/2                 
+
+ 930 +     1557   1602      1604  G18  5   XRA  1-8A      C1.1    6.4E-04       
+
+ 920 +     1812   1818      1827  G18  5   XRA  1-8A      B9.4    8.0E-04       
+
+ 940 +     1930   1945      2009  G18  5   XRA  1-8A      C1.5    2.9E-03   4393
+ 940       1936   1940      2011  HOL  3   FLA  N14E14    1F      ERU       4393
+
+ 950 +     2120   2134      2139  G18  5   XRA  1-8A      C1.7    1.3E-03       
+
+ 960 +     2212   2220      2223  G18  5   XRA  1-8A      B9.3    5.7E-04       
+
+ 970 +     2258   2308      2310  G18  5   XRA  1-8A      C1.1    6.2E-04       
+
+ 980 +     2333   2348      2356  G18  5   XRA  1-8A      C2.4    2.1E-03   4395

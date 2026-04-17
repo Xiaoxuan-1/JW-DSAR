@@ -1,0 +1,76 @@
+:Product: 20260208events.txt
+:Created: 2026 Feb 11 0357 UT
+:Date: 2026 02 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Feb 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5530       0025   ////      0033  PAL  C   RSP  025-166   III/2                 
+
+5540 +     0450   0456      0459  G18  5   XRA  1-8A      C4.8    2.5E-03   4366
+
+5640       0629   ////      1605  SVI  C   RSP  025-180   CTM/2                 
+
+5550       0712   0712      0712  SVI  G   RBR  245       130                   
+
+5560 +     0732   0746      0757  G18  5   XRA  1-8A      C6.1    8.0E-03   4366
+5560       0734   0738      0747  SVI  3   FLA  N14W46    SF                4366
+
+5570       0943   0943      0943  SVI  G   RBR  245       110                   
+
+5580       1100   1100      1103  SVI  3   FLA  N12W47    SF                4366
+
+5590 +     1113   1118      1121  G18  5   XRA  1-8A      M1.8    5.1E-03   4366
+5590       1117   1117      1209  SVI  3   FLA  N18W48    SF                4366
+5590       1117   1117      1118  SVI  G   RBR  15400     330               4366
+5590       1117   1117      1118  SVI  G   RBR  8800      170               4366
+5590       1117   1117      1118  SVI  G   RBR  4995      140               4366
+
+5600 +     1132   1143      1159  G18  5   XRA  1-8A      M1.7    2.0E-02   4366
+
+5700       1231   ////      2102  SAG  C   RSP  113-180   CTM/1                 
+
+5610 +     1346   1353      1357  G18  5   XRA  1-8A      M2.7    9.9E-03   4366
+5610       1350   1350      1352  SVI  G   RBR  1415      300                   
+5610       1350   1350      1353  SVI  G   RBR  2695      440                   
+5610       1350   1350      1351  SVI  G   RBR  8800      240                   
+5610       1350   1350      1351  SVI  G   RBR  15400     200                   
+5610       1350   1350      1351  SVI  G   RBR  4995      150                   
+
+5630       1442   1442      1442  SAG  G   RBR  245       120                   
+
+5650       1457   1605      1630  HOL  3   FLA  N14W50    1N      ERU       4366
+5650 +     1516   1520      1523  G18  5   XRA  1-8A      C5.6    2.4E-03   4366
+
+5660       1632   1657      1717  HOL  3   FLA  N12W51    1F      ERU       4366
+
+5620 +     1634   1636      1853  SAG  G   RNS  245       360                   
+
+5660       1658   1703      1711  G19  5   XRA  1-8A      C3.2    3.0E-03   4366
+
+5680       1701   1703      1757  HOL  3   FLA  S18W57    SN      ERU       4362
+
+5670 +     1712   1738      1753  G18  5   XRA  1-8A      C8.6    1.7E-02   4366
+5670 +     1718   1722      1742  HOL  3   FLA  N12W51    2N      ERU       4366
+5670       1729   1729      1729  SAG  G   RBR  410       190               4366
+
+5690       1804   1809      1814  HOL  3   FLA  N11W54    SF                4366
+
+5710       1829   1838      1924  HOL  2   FLA  N13W53    1F      ERU       4366
+
+5720       1958   2000      2002  HOL  3   FLA  N13W53    SF                4366
+
+5730       2005   2005      2042  HOL  3   FLA  N13W47    SF      ERU       4366
+
+5740       2107   2107      2108  HOL  3   FLA  N12W50    SF                4366
+
+5750       2108   2224      2308  HOL  3   FLA  N16W54    1F      ERU       4366
+5750       2112   ////      2330  PAL  U   RSP  025-075   VI/2              4366
+
+5760 +     2332   2354      0009  G18  5   XRA  1-8A      C7.4    1.4E-02   4366

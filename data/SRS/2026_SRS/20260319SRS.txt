@@ -1,0 +1,25 @@
+:Product: 0319SRS.txt
+:Issued: 2026 Mar 19 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 78 Issued at 0030Z on 19 Mar 2026
+Report compiled from data received at SWO on 18 Mar
+I.  Regions with Sunspots.  Locations Valid at 18/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+4391 N07W61   066  0010 Axx  01   01 Alpha
+4392 S17W12   017  0170 Csi  04   13 Beta-Gamma
+4393 N14W45   050  0020 Cso  07   04 Beta
+4395 S06W01   006  0010 Bxo  05   07 Beta
+4397 N17E69   296  0030 Cro  06   08 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 18/2400Z Mar
+Nmbr  Location  Lo
+4387  N08W75   080
+4389  N12W57   062
+4390  N26W82   087
+4394  S12W10   015
+4396  N20E14   352
+II. Regions Due to Return 19 Mar to 21 Mar
+Nmbr Lat    Lo
+4386 N16    256

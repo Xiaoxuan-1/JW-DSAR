@@ -1,0 +1,56 @@
+:Product: 20260111events.txt
+:Created: 2026 Jan 14 0357 UT
+:Date: 2026 01 11
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Jan 11
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+9180       0000   ////      0959  LEA  C   RSP  068-180   CTM/2                 
+
+9190       0335   ////      0927  LEA  C   RSP  025-180   VII/2                 
+
+9200       0634   ////      0638  SVI  C   RSP  025-180   III/2                 
+9200       0636   ////      0936  SVI  C   RSP  032-180   CTM/1                 
+
+9210       0733   ////      0735  SVI  C   RSP  025-180   III/2                 
+
+9220       0843   0843      0844  SVI  G   RBR  245       160                   
+
+9230       1023   ////      1052  SVI  C   RSP  025-180   VI/2                  
+
+9240 +     1119   1123      1126  G18  5   XRA  1-8A      B7.8    3.1E-04   4336
+9240       1121   1123      1123  SVI  G   RBR  245       1000                  
+9240       1122   ////      1123  SVI  C   RSP  076-141   III/1             4336
+9240       1122   1122      1122  SVI  G   RBR  410       130               4336
+
+9250       1222   1222      1224  SVI  G   RBR  245       150               4336
+
+9260       1340   ////      1341  SAG  C   RSP  025-053   III/1             4336
+
+9270 +     1409   1418      1421  G18  5   XRA  1-8A      C3.0    9.7E-04   4336
+9270 +     1417   1417      1417  SAG  G   RBR  245       1100              4336
+9270 +     1417   1417      1417  SAG  G   RBR  410       430               4336
+9270       1418   1418      1422  SVI  3   FLA  S14E00    SF                4336
+
+9280       1509   1509      1509  SAG  G   RBR  245       160                   
+
+9290       1611   ////      1611  SAG  C   RSP  025-180   III/1                 
+
+9300       1711   ////      1711  SAG  C   RSP  025-143   III/1                 
+
+9310       1722   1722      1723  SAG  G   RBR  245       180                   
+
+9320       1733   1733      1733  SAG  G   RBR  245       220                   
+
+9330       1748   1748      1748  SAG  G   RBR  245       120                   
+
+9370 +     2153   2314      0031  G18  5   XRA  1-8A      M3.3    2.1E-01       
+9370       2202   2212      2220  LEA  G   RNS  245       500                   
+9370 +     2206   ////      2252  LEA  C   RSP  025-180   CTM/2                 
+9370 +     2231   2231      2231  LEA  G   RBR  610       110                   

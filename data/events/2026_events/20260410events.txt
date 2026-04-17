@@ -1,0 +1,25 @@
+:Product: 20260410events.txt
+:Created: 2026 Apr 13 0357 UT
+:Date: 2026 04 10
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Apr 10
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+5040 +     0258   0308      0317  G18  5   XRA  1-8A      B5.4    5.5E-04   4409
+
+5050 +     0413   0425      0503  G18  5   XRA  1-8A      B6.0    1.6E-03   4409
+
+5060       0914   0924      0930  G19  5   XRA  1-8A      B7.3    5.4E-04   4409
+
+5070 +     1239   1247      1254  G18  5   XRA  1-8A      B7.6    5.7E-04   4414
+
+5080 +     1539   1549      1554  G18  5   XRA  1-8A      B6.4    5.2E-04   4414
+5080       1545   1547      1556  SVI  3   FLA  N17E47    SF                4414
+
+5090       1605   1605      1609  SVI  3   FLA  N17E47    SF                4414

@@ -1,0 +1,11 @@
+[Unit]
+Description=JW-DSAR Daily Generation Timer (UTC 23:50)
+
+[Timer]
+OnCalendar=*-*-* 23:50:00 UTC
+Persistent=true
+Unit=jwdsar-generate.service
+AccuracySec=1m
+
+[Install]
+WantedBy=timers.target

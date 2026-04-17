@@ -1,0 +1,47 @@
+:Product: 20260127events.txt
+:Created: 2026 Jan 30 0357 UT
+:Date: 2026 01 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Jan 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2190 +     0029   ////      0031  LEA  C   RSP  025-180   III/2                 
+
+2200       0043   ////      0149  LEA  3   EPL  ////      0.11                  
+2200       0116   ////      0209  LEA  C   RSP  025-105   VI/3                  
+2200       0128   ////      0129  PAL  C   RSP  025-049   III/1                 
+
+2100 +     0230   0238      0245  G18  5   XRA  1-8A      C1.9    1.7E-03   4351
+
+2210       0350   ////      0409  LEA  C   RSP  025-158   VI/3                  
+
+2110 +     0406   0420      0438  G18  5   XRA  1-8A      C2.8    4.5E-03   4342
+
+2220 +     0529   ////      0730  LEA  C   RSP  025-180   VI/2                  
+
+2240       0837   ////      0838  SVI  C   RSP  025-180   III/2                 
+
+2120 +     0915   0929      0939  G18  5   XRA  1-8A      C3.1    4.1E-03   4351
+2120      B0926  U0929     A0937  SVI  3   FLA  S04W54    SF                4351
+
+2130       0939   0943      0945  G18  5   XRA  1-8A      C2.9    1.6E-03   4351
+
+2260       1042   ////      1043  SVI  C   RSP  025-180   III/2                 
+
+2270       1046   1047      1056  SVI  3   FLA  S14E03    SF                4357
+
+2140 +     1303   1309      1314  G18  5   XRA  1-8A      C2.0    1.3E-03   4353
+
+2280       2050   ////      2138  SAG  C   RSP  025-075   VI/1                  
+
+2290 +     2229   ////      2237  LEA  C   RSP  025-098   III/2                 
+
+2300       2313   2315      2322  HOL  3   FLA  S12W04    SF                    
+
+2310 +     2330   2340      2347  G18  5   XRA  1-8A      C2.7    2.4E-03   4342

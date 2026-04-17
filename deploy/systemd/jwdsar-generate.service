@@ -1,0 +1,13 @@
+[Unit]
+Description=JW-DSAR Generate Daily Report (oneshot)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=__JWDSAR_USER__
+Group=__JWDSAR_GROUP__
+WorkingDirectory=__JWDSAR_ROOT__
+ExecStart=__JWDSAR_PYTHON__ __JWDSAR_ROOT__/app_scheduled.py --generate-once
+Environment=PYTHONUNBUFFERED=1
+Environment=DASHSCOPE_API_KEY_FILE=__JWDSAR_KEY_FILE__

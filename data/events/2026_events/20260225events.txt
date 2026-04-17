@@ -1,0 +1,56 @@
+:Product: 20260225events.txt
+:Created: 2026 Feb 28 0357 UT
+:Date: 2026 02 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Feb 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+8250 +     0008   0024      0032  G18  5   XRA  1-8A      C2.3    3.3E-03       
+
+8300       0032   0045      0107  G18  5   XRA  1-8A      C5.3    9.1E-03       
+
+8250       0032   ////      0035  LEA  C   RSP  025-159   V/3                   
+8250       0033   ////      0035  PAL  U   RSP  025-075   III/2                 
+
+8270       0219   0229      0242  G18  5   XRA  1-8A      C1.4    1.8E-03       
+
+8280       0259   0309      0330  G18  5   XRA  1-8A      C1.5    2.7E-03       
+
+8310       0508   0515      0536  G18  5   XRA  1-8A      C4.8    6.3E-03       
+
+8320       0627   ////      0651  SVI  C   RSP  025-180   VI/2                  
+8320 +     0641   0656      0709  G18  5   XRA  1-8A      C2.6    3.5E-03       
+8320 +     0645   ////      0652  LEA  C   RSP  025-180   III/2                 
+8320       0646   0647      0712  SVI  3   FLA  S08W28    SF      PRB           
+8320       0652   0652      0654  SVI  G   RBR  410       330                   
+8320 +     0653   ////      0706  LEA  C   RSP  025-120   II/2    595           
+
+8330       0742   0742      0742  LEA  G   RBR  245       420                   
+
+8340       0753   ////      0754  LEA  C   RSP  025-079   III/1                 
+
+8350 +     0805   0812      0816  G18  5   XRA  1-8A      C1.0    7.1E-04       
+
+8360 +     0848   0859      0938  G18  5   XRA  1-8A      C2.6    2.8E-03       
+
+8370 +     0938   0948      0955  G18  5   XRA  1-8A      C3.2    2.2E-03       
+
+8430      A1017   ////     A2300  LEA  3   DSF  S38E59    13                    
+
+8380 +     1026   1036      1040  G18  5   XRA  1-8A      C1.2    1.0E-03       
+
+8390 +     1102   1123      1134  G18  5   XRA  1-8A      C3.9    5.2E-03       
+
+8400       1207   1207      1208  SAG  G   RBR  245       130                   
+
+8410       1238   1245      1251  G19  5   XRA  1-8A      B9.9    7.8E-04       
+
+8420 +     1535   1559      1609  G18  5   XRA  1-8A      M2.3    2.1E-02   4380
+
+8530       1840   2003      2103  G18  5   XRA  1-8A      C1.8    1.3E-02       

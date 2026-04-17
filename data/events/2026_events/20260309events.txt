@@ -1,0 +1,49 @@
+:Product: 20260309events.txt
+:Created: 2026 Mar 12 0357 UT
+:Date: 2026 03 09
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Mar 09
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 250      A0028   ////     A1414  HOL  3   DSF  N33E34    13                    
+
+ 130       0249   0254      0256  G19  5   XRA  1-8A      C1.2    4.9E-04   4381
+ 130       0251   ////      0254  LEA  C   RSP  025-180   III/2                 
+ 130       0254   0254      0254  LEA  G   RBR  245       120                   
+
+ 140 +     0622   0631      0643  G18  5   XRA  1-8A      C1.6    1.7E-03   4381
+
+ 150 +     0655   0702      0707  G18  5   XRA  1-8A      C1.8    1.2E-03   4387
+
+ 160 +     0801   0807      0811  G18  5   XRA  1-8A      C1.7    8.1E-04   4387
+
+ 170 +     1046   1054      1058  G18  5   XRA  1-8A      C1.7    9.7E-04       
+ 170       1050   ////      1052  SVI  C   RSP  025-110   III/2                 
+
+ 180       1139   ////      1225  SAG  C   RSP  025-050   VI/1                  
+
+ 190       1238   1238      1238  SAG  G   RBR  245       120                   
+
+ 200 +     1248   1256      1306  G18  5   XRA  1-8A      C2.3    2.0E-03   4381
+
+ 210 +     1359   ////      1401  SAG  C   RSP  025-150   III/1                 
+
+ 220       1429   1429      1437  HOL  3   FLA  S12W17    SF                    
+ 220       1429   ////      1430  SAG  C   RSP  025-046   III/1                 
+
+ 230       1448   1448      1448  SAG  G   RBR  245       120                   
+
+ 240       1524   1524      1524  SAG  G   RBR  245       110                   
+
+ 260 +     2021   2038      2050  G18  5   XRA  1-8A      C7.8    8.2E-03   4387
+ 260       2029   2030      2059  HOL  3   FLA  N11E42    SF      ERU       4387
+
+ 270       2238   2238      2239  LEA  U   RBR  610       110                   
+
+ 280       2346   2346      2351  HOL  3   FLA  N14W46    SF                4381

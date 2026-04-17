@@ -1,0 +1,45 @@
+:Product: 20260402events.txt
+:Created: 2026 Apr 05 0357 UT
+:Date: 2026 04 02
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Apr 02
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+3790       0002   ////      0002  PAL  C   RSP  025-135   III/1                 
+
+3800       0010   0011      0027  HOL  3   FLA  N01E27    SF                4409
+
+3830 +     0707   0713      0726  G18  5   XRA  1-8A      C1.5    2.0E-03   4409
+
+3850 +     0726   0730      0736  G18  5   XRA  1-8A      C1.3    9.6E-04   4401
+
+3840       0749   ////      0818  SVI  C   RSP  025-084   VI/1                  
+
+3860       0922   0928      0930  G19  5   XRA  1-8A      C1.8    1.0E-03   4409
+
+3870       0939   ////      0940  SVI  C   RSP  025-084   III/2             4409
+
+3880 +     1226   1230      1232  G18  5   XRA  1-8A      C1.3    6.1E-04   4409
+
+3930       1301   1459      1556  G18  5   XRA  1-8A      C3.9    2.1E-02   4409
+3930 +     1402   1404      1409  HOL  3   FLA  N02E21    SF                4409
+
+3910       1559   1603      1606  HOL  3   FLA  N01E20    SF                4409
+
+3920 +     1629   ////      1705  SVI  C   RSP  025-061   VI/2              4404
+3920 +     1723   1815      1834  G18  5   XRA  1-8A      M3.5    5.4E-02   4404
+3920 +     1750   1810      1901  HOL  3   FLA  N12W16    2B      ERU       4404
+3920 +     1802   ////      1807  SAG  C   RSP  025-180   III/2             4404
+
+3940 +     2121   2128      2132  G18  5   XRA  1-8A      C1.2    8.2E-04   4405
+
+3950       2253   2254      2306  HOL  3   FLA  N03E13    SF                4409
+3950 +     2308   2315      2320  G18  5   XRA  1-8A      C1.6    1.4E-03   4409
+
+3960 +     2353   2358      0004  G18  5   XRA  1-8A      C1.5    1.1E-03   4409

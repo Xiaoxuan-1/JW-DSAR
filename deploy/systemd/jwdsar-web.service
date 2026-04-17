@@ -1,0 +1,20 @@
+[Unit]
+Description=JW-DSAR Web Service (Gradio)
+After=network-online.target
+Wants=network-online.target
+StartLimitIntervalSec=300
+StartLimitBurst=10
+
+[Service]
+Type=simple
+User=__JWDSAR_USER__
+Group=__JWDSAR_GROUP__
+WorkingDirectory=__JWDSAR_ROOT__
+ExecStart=__JWDSAR_PYTHON__ __JWDSAR_ROOT__/app_scheduled.py
+Restart=always
+RestartSec=5
+Environment=PYTHONUNBUFFERED=1
+Environment=DASHSCOPE_API_KEY_FILE=__JWDSAR_KEY_FILE__
+
+[Install]
+WantedBy=multi-user.target

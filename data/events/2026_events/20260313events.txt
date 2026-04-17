@@ -1,0 +1,55 @@
+:Product: 20260313events.txt
+:Created: 2026 Mar 16 0357 UT
+:Date: 2026 03 13
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Mar 13
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+ 580       0051   0051      0051  LEA  U   RBR  245       140                   
+
+ 630       0057   0105      0110  G18  5   XRA  1-8A      C4.3    4.0E-03   4393
+
+ 580 +     0110   0117      0119  G18  5   XRA  1-8A      C4.1    2.8E-03   4381
+
+ 590 +     0206   0214      0224  G18  5   XRA  1-8A      C2.2    2.2E-03   4381
+
+ 600       0546   0557      0602  G18  5   XRA  1-8A      C3.7    2.6E-03   4384
+ 600      B0551  U0553     A0557  SVI  2   FLA  N10W75    SF      DSD       4384
+
+ 610 +     0636   0652      0710  G18  5   XRA  1-8A      C3.9    5.9E-03   4381
+
+ 620 +     0803   0811      0817  G18  5   XRA  1-8A      C2.1    1.8E-03   4392
+
+ 640       0940   0955      1005  G19  5   XRA  1-8A      M1.2    9.1E-03   4384
+ 640 +     0948   ////      0952  SVI  C   RSP  025-172   III/2             4384
+ 640       0951   0952      1000  LEA  3   FLA  N11W67    SF                4384
+
+ 650 +     1105   1115      1130  G18  5   XRA  1-8A      C3.3    4.3E-03   4384
+ 650      B1111  U1111     A1127  SVI  3   FLA  N11W71    SF                4384
+
+ 660 +     1236   1254      1316  G18  5   XRA  1-8A      C5.1    8.0E-03   4384
+ 660      B1302  U1322     A1332  SVI  3   FLA  N11W72    SF                4384
+
+ 670 +     1457   1518      1548  G18  5   XRA  1-8A      C8.0    1.7E-02   4381
+
+ 680 +     2009   2023      2032  G18  5   XRA  1-8A      C8.9    7.3E-03   4392
+
+ 700       2016   2018      2026  HOL  3   FLA  N10W74    SF                4384
+
+ 680 +     2016   2023      2048  HOL  3   FLA  S18E57    1N      ERU       4392
+
+ 690 +     2033   2041      2045  G18  5   XRA  1-8A      C7.4    5.3E-03   4384
+ 690       2034   2036      2057  HOL  3   FLA  N09W75    SF                4384
+
+ 710 +     2225   2231      2237  G18  5   XRA  1-8A      C1.7    1.3E-03   4388
+
+ 720 +     2324   2337      2341  G18  5   XRA  1-8A      C2.2    2.1E-03   4384
+ 720       2335   2337      2341  HOL  3   FLA  N10W79    SF                4384
+
+ 730       2341   2346      2350  G18  5   XRA  1-8A      C2.5    1.6E-03   4384

@@ -1,0 +1,29 @@
+:Product: 0208SRS.txt
+:Issued: 2026 Feb 08 0030 UTC
+# Prepared jointly by the U.S. Dept. of Commerce, NOAA,
+# Space Weather Prediction Center and the U.S. Air Force.
+#
+Joint USAF/NOAA Solar Region Summary
+SRS Number 39 Issued at 0030Z on 08 Feb 2026
+Report compiled from data received at SWO on 07 Feb
+I.  Regions with Sunspots.  Locations Valid at 07/2400Z 
+Nmbr Location  Lo  Area  Z   LL   NN Mag Type
+4358 N17W84   243  0010 Bxo  05   02 Beta
+4362 S17W48   207  0050 Dao  05   03 Beta
+4366 N14W46   205  1000 Fkc  20   25 Beta-Gamma-Delta
+4367 N09W18   177  0040 Cao  04   03 Beta
+4368 S10W15   174  0100 Hsx  01   01 Alpha
+4369 S03W10   169  0110 Hsx  02   01 Alpha
+4371 S23E06   153  0120 Dao  07   07 Beta
+4373 N09E56   103  0130 Cso  08   06 Beta
+IA. H-alpha Plages without Spots.  Locations Valid at 07/2400Z Feb
+Nmbr  Location  Lo
+4360  S16W85   244
+4363  S26W53   212
+4370  S18W03   162
+II. Regions Due to Return 08 Feb to 10 Feb
+Nmbr Lat    Lo
+4341 S10    062
+4342 N15    059
+4345 S17    056
+4347 N11    034

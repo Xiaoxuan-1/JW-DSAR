@@ -1,0 +1,44 @@
+:Product: 20260325events.txt
+:Created: 2026 Mar 28 0357 UT
+:Date: 2026 03 25
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Mar 25
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2460 +     0004   ////      0006  LEA  C   RSP  025-107   III/2                 
+2460 +     0014   0030      0037  G18  5   XRA  1-8A      C3.7    5.0E-03   4400
+2460 +     0015   ////      0028  LEA  C   RSP  025-180   VI/2                  
+
+2470       0110   ////      0112  PAL  C   RSP  025-059   III/2                 
+
+2480       0410   0424      0433  G18  5   XRA  1-8A      C2.2    2.4E-03   4403
+2480       0417   ////      0419  LEA  C   RSP  025-180   III/2                 
+
+2490       0547   ////      0547  SVI  C   RSP  025-180   III/2                 
+
+2500 +     0555   0605      0611  G18  5   XRA  1-8A      C1.5    1.4E-03   4401
+2500       0602   0603      0611  SVI  3   FLA  N24E37    SF      ERU       4401
+
+2520       0905   ////      0910  SVI  C   RSP  025-084   III/2                 
+2520       0906   0916      0922  G19  5   XRA  1-8A      C1.8    1.7E-03   4403
+
+2530       1109   1109      1112  SVI  3   FLA  N23E33    SF      ERU       4401
+
+2540       1117   ////      1120  SVI  C   RSP  025-044   III/1                 
+
+2550       1210   ////      1210  SAG  C   RSP  025-075   III/1                 
+2550       1210   ////      1315  SVI  C   RSP  025-145   VI/2                  
+
+2560 +     1304   1312      1321  G18  5   XRA  1-8A      C2.2    2.2E-03   4403
+2560 +     1309   1309      1309  SVI  G   RBR  245       150                   
+2560 +     1309   ////      1310  SVI  C   RSP  025-180   III/3                 
+
+2570       1602   ////      1602  SAG  C   RSP  025-052   III/1                 
+
+2580       2037   ////      2037  SAG  C   RSP  025-095   III/2                 

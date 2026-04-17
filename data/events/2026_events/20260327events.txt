@@ -1,0 +1,59 @@
+:Product: 20260327events.txt
+:Created: 2026 Mar 30 0357 UT
+:Date: 2026 03 27
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Mar 27
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+2840       0155   ////      0156  PAL  C   RSP  025-075   III/2                 
+
+2850       0223   0223      0223  PAL  U   RBR  2695      120                   
+
+2860 +     0255   0301      0305  G18  5   XRA  1-8A      C3.6    2.3E-03   4403
+
+2870 +     0353   0400      0403  G18  5   XRA  1-8A      C2.8    1.6E-03   4405
+
+2880 +     0647   0656      0703  G18  5   XRA  1-8A      C3.6    2.7E-03   4405
+
+2890 +     0807   0814      0818  G18  5   XRA  1-8A      C2.3    1.3E-03   4405
+
+2900       0840   0844      0847  G19  5   XRA  1-8A      C1.6    7.3E-04   4405
+
+2910       0858   0858      0858  SVI  G   RBR  8800      110                   
+
+2920 +     0924   0946      0949  G19  5   XRA  1-8A      C2.2    3.3E-03   4405
+
+2930       0949   1002      1013  G19  5   XRA  1-8A      C5.4    6.4E-03   4405
+
+2940       1030   ////      1031  SVI  C   RSP  025-082   III/2                 
+
+2950       1040   1040      1040  SVI  G   RBR  410       170                   
+
+2960 +     1126   ////      1126  SAG  C   RSP  025-053   III/1                 
+
+2970 +     1225   ////      1229  SVI  C   RSP  025-180   III/1                 
+
+2980 +     1336   1341      1346  G18  5   XRA  1-8A      C1.9    1.2E-03   4401
+
+2990 +     1359   1405      1410  G18  5   XRA  1-8A      C2.1    1.4E-03   4400
+2990       1401   1402      1418  HOL  3   FLA  S13W85    SF                4400
+
+3000 +     1817   1826      1834  G18  5   XRA  1-8A      C3.5    2.5E-03   4403
+3000       1823   1825      1835  HOL  3   FLA  N17E45    SF                4403
+3000       1831   ////      1837  SAG  C   RSP  025-180   III/1             4403
+
+3010 +     1905   1913      1922  G18  5   XRA  1-8A      C2.5    2.2E-03   4401
+3010       1912   1912      1917  HOL  3   FLA  N24E03    SF      ERU       4401
+3010       1914   1915      1916  SAG  G   RBR  245       370               4401
+
+3020       1924   1924      1924  SAG  G   RBR  245       130                   
+
+3030       1952   1952      1952  SAG  G   RBR  410       100                   
+
+3040       2016   2016      2016  SAG  G   RBR  245       190                   

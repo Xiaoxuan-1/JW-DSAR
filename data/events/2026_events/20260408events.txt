@@ -1,0 +1,40 @@
+:Product: 20260408events.txt
+:Created: 2026 Apr 11 0357 UT
+:Date: 2026 04 08
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Apr 08
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+4810 +     0038   0048      0054  G18  5   XRA  1-8A      C1.0    9.7E-04   4409
+
+4820       0457   0501      0512  G18  5   XRA  1-8A      C1.3    1.1E-03   4414
+4820       0458   ////      0500  SVI  C   RSP  025-154   III/2                 
+
+4830 +     0551   0556      0600  G18  5   XRA  1-8A      B8.8    5.0E-04   4406
+
+4840       0652   ////      0654  SVI  C   RSP  025-180   III/2                 
+
+4850       0806   ////      0809  SVI  C   RSP  025-063   III/2                 
+
+4860       0855   ////      0857  SVI  C   RSP  025-084   III/1                 
+
+4870 +     1222   1233      1239  G18  5   XRA  1-8A      C1.3    1.2E-03   4414
+4870 +     1226   ////      1503  SVI  C   RSP  025-180   VI/2                  
+
+4880       1329   ////      1329  SVI  C   RSP  025-085   III/2                 
+
+4890 +     1531   1543      1550  G18  5   XRA  1-8A      C8.7    5.2E-03   4414
+4890 +     1538   1539      1555  HOL  3   FLA  N13E67    SF      PRB       4414
+4890 +     1538   ////      1541  SAG  C   RSP  025-180   III/2             4414
+4890 +     1540   1540      1540  SAG  G   RBR  245       160               4414
+
+4900       1604   ////      1604  SAG  C   RSP  025-046   III/2                 
+
+4910 +     2338   2350      2358  G18  5   XRA  1-8A      C1.4    1.5E-03   4414
+4910       2356   2356      2356  HOL  3   FLA  N14E62    SF      ERU       4414

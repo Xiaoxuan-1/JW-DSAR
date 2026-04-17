@@ -1,0 +1,54 @@
+:Product: 20260121events.txt
+:Created: 2026 Jan 24 0357 UT
+:Date: 2026 01 21
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Please send comments and suggestions to SWPC.Webmaster@noaa.gov 
+#
+# Missing data: ////
+# Updated every 5 minutes.
+#                            Edited Events for 2026 Jan 21
+#
+#Event    Begin    Max       End  Obs  Q  Type  Loc/Frq   Particulars       Reg#
+#-------------------------------------------------------------------------------
+
+1190 +     0005   0009      0012  G18  5   XRA  1-8A      C2.1    8.9E-04   4342
+
+1200 +     0115   0135      0158  G18  5   XRA  1-8A      M1.1    2.2E-02   4345
+1200       0130   0136      0202  LEA  3   FLA  S16W05    SF      ERU       4345
+
+1210       0443   0448      0450  G18  5   XRA  1-8A      C2.0    9.5E-04   4345
+
+1220 +     0502   0513      0523  G18  5   XRA  1-8A      C5.1    4.5E-03       
+
+1230 +     0653   0712      0722  G18  5   XRA  1-8A      M3.4    2.8E-02   4349
+1230       0701   0712      0755  LEA  3   FLA  S18E62    1B      ERU       4349
+
+1240       1149   1157      1208  G18  5   XRA  1-8A      C2.2    2.6E-03   4345
+
+1250 +     1209   1212      1220  G18  5   XRA  1-8A      C3.6    2.3E-03   4345
+
+1260 +     1349   1349      1349  SAG  G   RBR  245       450                   
+
+1270       1507   ////      1508  SAG  C   RSP  025-045   III/1                 
+
+1280       1619   1619      1619  SAG  G   RBR  245       150                   
+
+1290 +     1624   1633      1640  G18  5   XRA  1-8A      C2.3    2.1E-03   4342
+
+1300       1812   ////      1812  SAG  C   RSP  025-053   III/1                 
+
+1310       1820   1821      1855  HOL  3   FLA  S14E55    SF                4349
+
+1400 +     1826   1834      1839  G18  5   XRA  1-8A      C7.0    6.0E-03   4349
+
+1320 +     1905   1910      1915  G18  5   XRA  1-8A      C3.2    2.0E-03   4350
+
+1330 +     1929   1938      1945  G18  5   XRA  1-8A      C8.6    6.0E-03   4341
+1330 +     1934   1934      1934  SAG  G   RBR  4995      110                   
+
+1340 +     1947   1955      2002  G18  5   XRA  1-8A      C7.6    6.5E-03   4341
+
+1350       2021   2021      2022  HOL  3   FLA  S13W20    SF      PRB       4341
+
+1360 +     2047   2052      2058  G18  5   XRA  1-8A      C3.2    2.1E-03   4341
+1360       2049   2050      2101  HOL  3   FLA  S12W21    SF      PRB       4341
