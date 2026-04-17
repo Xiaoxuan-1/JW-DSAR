@@ -1,7 +1,5 @@
-gradio==4.44.1
-# 说明：本项目已验证 gradio==4.44.1 可用；为保证可复现，建议锁定版本。
-# 兼容性：huggingface_hub 1.0+ 移除了部分旧接口；如遇导入错误，可保持 <1.0。
-huggingface_hub>=0.19.3,<1.0
+gradio==6.12.0
+# 说明：为保证可复现，建议锁定 gradio 版本（当前默认 6.12.0）。
 # Windows + Python 3.9：先装带 wheel 的 greenlet，避免缺少 MSVC 时从源码编译失败
 greenlet>=3.0.1,<3.2
 beautifulsoup4
