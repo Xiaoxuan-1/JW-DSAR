@@ -19,6 +19,8 @@ pip install -r requirements_scheduled.txt
 # pip install -r requirements_jwflare.txt
 ```
 
+已验证可用的 Gradio 版本：**4.44.1**。
+
 复制配置模板：
 
 ```bash
