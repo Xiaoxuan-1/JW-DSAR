@@ -9,3 +9,4 @@ requests
 python-dotenv
 weasyprint>=52.5
 latex2mathml>=3.75.0
+mcp>=1.0.0

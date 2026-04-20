@@ -137,15 +137,37 @@ python app_scheduled.py --generate-once --date 2026-04-02
 python app_scheduled.py --generate-once --date 2026-04-02 --output-dir test/reports
 ```
 
-## 7. 关键文件
+## 7. MCP（Claude Code / OpenClaw 等）
+
+通过 **stdio** 暴露工具，供支持 MCP 的客户端调用（与 Gradio 并行，不替代 `app_scheduled.py`）。
+
+依赖已列入 `requirements_scheduled.txt`（`mcp`）。启动命令（**工作目录为项目根**，以便读取 `.env` / `reports/`）：
+
+```bash
+python mcp_server.py
+```
+
+暴露工具示例：`jwdsar_list_reports`、`jwdsar_fetch_solar_data`、`jwdsar_generate_report`、`jwdsar_get_report_preview`、`jwdsar_server_info`。
+
+**Claude Code**（示例，请替换为你的 `python.exe` 与仓库路径）：
+
+```bash
+claude mcp add jwdsar --transport stdio --scope project --
+  C:\Path\To\python.exe E:\pythonProject\Kiro\JW-DSAR\mcp_server.py
+```
+
+**OpenClaw 等**：在配置中为该服务器填写 `command` + `args`（同上），必要时设置工作目录为项目根。生成日报可能耗时数分钟，请在客户端侧放宽超时。
+
+## 8. 关键文件
 
 - `app_scheduled.py`：主入口
+- `mcp_server.py`：MCP stdio 服务
 - `jwflare_pipeline.py`：JW-Flare 预报编排
 - `jwflare_client.py`：JW-Flare HTTP 客户端（upload/path/auto）
 - `deploy/systemd/`：systemd 模板
 - `scripts/`：一键启动与运维脚本
 - `部署指南.md`：完整部署与排障
 
-## 8. 生产部署与排障
+## 9. 生产部署与排障
 
 详见 [部署指南.md](部署指南.md)。
